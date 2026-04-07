@@ -4,9 +4,9 @@ export default function Footer() {
       <p>&copy; 2026 Navkar Donations. All rights reserved.</p>
       <p>
         Follow us on:{" "}
-        <a href="#" style={{ color: "#fff", textDecoration: "none" }} className="fa fa-facebook ms-2"> Facebook</a>
-        <a href="#" style={{ color: "#fff", textDecoration: "none" }} className="fa fa-twitter ms-2"> Twitter</a>
-        <a href="#" style={{ color: "#fff", textDecoration: "none" }} className="fa fa-instagram ms-2"> Instagram</a>
+        <a href="#" style={{ color: "#fff", textDecoration: "none" }} className="fa fa-facebook ms-2"> </a>
+        <a href="#" style={{ color: "#fff", textDecoration: "none" }} className="fa fa-twitter ms-3"> </a>
+        <a href="#" style={{ color: "#fff", textDecoration: "none" }} className="fa fa-instagram ms-3"> </a>
       </p>
     </footer>
   );
