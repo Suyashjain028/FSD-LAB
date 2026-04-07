@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = axios.create({ baseURL: "https://navkardonations.vercel.app/api/..." });
+const API = axios.create({ baseURL: "https://navkardonations.vercel.app/api" });
 
 // Auto-attach JWT token from localStorage to every request
 API.interceptors.request.use((config) => {
