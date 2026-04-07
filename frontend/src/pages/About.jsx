@@ -30,7 +30,7 @@ export default function About() {
           <p>
             <strong>Navkar Donations</strong> is a Jaipur-based NGO working on child rights and sustainable development goals.
             Navkar Donations was founded by International Children peace prize winner{" "}
-            <strong>'Hari Mohan'</strong> with his wife <strong>'Suyash Jain'</strong> and alumni of AIESEC{" "}
+            <strong>'Hari Mohan'</strong> with his wife <strong>'Rupeshi Kumari'</strong> and alumni of AIESEC{" "}
             <strong>'Sneh Meena'</strong> with the vision of creating a society where no child is denied access to
             education and forced to work in exploitative jobs.
           </p>
